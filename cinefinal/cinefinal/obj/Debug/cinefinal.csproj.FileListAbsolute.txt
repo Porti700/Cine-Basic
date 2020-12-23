@@ -1,0 +1,6 @@
+/Users/portixd1/Projects/cinefinal/cinefinal/bin/Debug/cinefinal.exe
+/Users/portixd1/Projects/cinefinal/cinefinal/bin/Debug/cinefinal.pdb
+/Users/portixd1/Projects/cinefinal/cinefinal/obj/Debug/cinefinal.csprojAssemblyReference.cache
+/Users/portixd1/Projects/cinefinal/cinefinal/obj/Debug/cinefinal.csproj.CoreCompileInputs.cache
+/Users/portixd1/Projects/cinefinal/cinefinal/obj/Debug/cinefinal.exe
+/Users/portixd1/Projects/cinefinal/cinefinal/obj/Debug/cinefinal.pdb
